@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.com/learning-crawlers/stf-remuneracao.svg)](http://hits.dwyl.com/learning-crawlers/stf-remuneracao)
+
 # STF Remuneração de Servidores
 
 Extração de dados com Beautiful Soup para listar a remuneração de Servidores ativos do STF
